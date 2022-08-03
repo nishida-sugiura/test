@@ -1,7 +1,7 @@
 var params = (new URL(document.location)).searchParams;
 var key = params.get('key');
 
-let daytime2 = document.getElementById("textArea").value.trim();
+//let daytime2 = document.getElementById("textArea").value.trim();
 
 $(function () {
     // 送信
@@ -25,7 +25,9 @@ $(function () {
         var num6 = $('select[name="qty6"]').val();
         var breed6 = $('input[name="breed6"]').val();   
         
-        var daytime = $('input[name="daytime"]').val();
+        //var daytime = $('input[name="daytime"]').val();
+        
+        var daytime2 = $('input[name="daytime2"]').val();
         
 
 
