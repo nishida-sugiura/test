@@ -7,7 +7,7 @@ $(function () {
     // 送信
     $('form').submit(function () {
   
-        var daytime2 = $('input[name="daytime2"]').val();
+        var s_code = $('input[name="serialcode"]').val();
         
 
 
@@ -26,7 +26,7 @@ $(function () {
      
 
 
-       msg = ["serial code【" + daytime2 +"】を送信しました。"] ;
+       msg = ["serial code【" + s_code +"】を送信しました。"] ;
 
         
         
