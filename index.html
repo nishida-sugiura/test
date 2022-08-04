@@ -36,7 +36,7 @@ PayPayキャッシュバックのチャンスがあります。詳しくは<a hr
 <h1>↓　６桁のシリアルコードを入力して送信ボタンを押してください　↓</h1>
 
 
-  <h1><input type="number" name="serialcode" max="999999" max="100000" placeholder="シリアルコードを入力" required></h1>
+  <h1><input type="text" name="serialcode" minlength="4" maxlength="6" pattern="^[0-9a-zA-Z]+$" placeholder="シリアルコードを入力" required></h1>
 
 
 <h5><div><input type="submit" value="送信する" class="button" ></div></h5>
