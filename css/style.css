@@ -51,7 +51,7 @@ a:hover {
 /*mainコンテンツのh2タグ設定*/
 #main h2 {
 	clear: both;
-	font-size: 5vw;
+	font-size: 7vw;
 	margin-bottom: 20px;
 	padding: 10px 20px 10px 60px;	/*上、右、下、左への見出し内の余白*/
 	color: #fff;		/*文字色*/
