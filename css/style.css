@@ -154,7 +154,7 @@ footer .pr {display: block;font-size: 80%;}
 h5{ 
  color: black;
  text-align: center;
-
+font-size: 6.5vw;
 margin: 60px auto 30px auto;
 }
 
@@ -163,7 +163,7 @@ margin: 60px auto 30px auto;
 h1{ 
  color: black;
  text-align: center;
-font-size: 4.5vw;
+font-size: 5.5vw;
 margin-bottom: 1vw;
 margin-top: 1vw;
 }
@@ -171,7 +171,7 @@ margin-top: 1vw;
 h1.m{ 
  color: black;
  text-align: center;
-font-size: 4.5vw;
+font-size: 5.5vw;
 margin-bottom: 1vw;
 margin-top: 1vw;
 }
